@@ -1,0 +1,26 @@
+.menu-bottom {
+  display: block;
+  margin-bottom: 15px;
+}
+.menu-bottom_item {
+  display: inline-block;
+}
+.menu-bottom_link {
+  display: block;
+  padding-right: 10px;
+  padding-left: 11px;
+  border-right: 1px solid #bec6c9;
+  color: #bec6c9;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+}
+.menu-bottom_link:hover {
+  color: #52abcb;
+}
+.menu-bottom_link__pl0 {
+  padding-left: 0;
+}
+.menu-bottom_link__pr0 {
+  padding-right: 0;
+  border: 0;
+}

@@ -1,0 +1,60 @@
+.social-sprite, .goodyear_link, .nokian, .hankook {
+  background-image: url('../img/social-s40cd45f454.png');
+  background-repeat: no-repeat;
+}
+
+.main {
+  float: left;
+  width: 503px;
+  margin-top: -5px;
+  padding-left: 23px;
+  padding-top: 15px;
+  padding-bottom: 2px;
+  border-radius: 2px;
+  background: -webkit-linear-gradient(bottom, #93a7b0, #e5e7e8);
+  background: -o-linear-gradient(bottom, #93a7b0, #e5e7e8);
+  background: linear-gradient(to top, #93a7b0, #e5e7e8);
+}
+
+.goodyear {
+  float: left;
+  margin-right: 28px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+.goodyear_link {
+  display: block;
+  width: 139px;
+  height: 129px;
+  margin-bottom: 5px;
+  background-position: 0 -375px;
+}
+.goodyear_spantop {
+  display: block;
+  color: #206988;
+  font-size: 15px;
+}
+.goodyear_spanmiddle {
+  display: block;
+  color: #1f2528;
+  font-size: 13px;
+}
+.goodyear_spanbottom, .goodyear_spanbottom-r {
+  font-family: Arial, sans-serif;
+  color: #114165;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 16px;
+}
+.goodyear_spanbottom-r {
+  padding-left: 4px;
+  font-size: 12px;
+}
+
+.nokian {
+  background-position: 0 -514px;
+}
+
+.hankook {
+  background-position: 0 -653px;
+}

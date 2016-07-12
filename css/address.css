@@ -1,0 +1,20 @@
+.social-sprite, .address {
+  background-image: url('../img/social-s40cd45f454.png');
+  background-repeat: no-repeat;
+}
+
+.address {
+  float: left;
+  width: 265px;
+  line-height: 21px;
+  margin: 22px 17px 12px 8px;
+  padding-left: 23px;
+  background-position: 0 -792px;
+  color: #5e696d;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.3px;
+}
+.address_number {
+  margin-left: 2px;
+}

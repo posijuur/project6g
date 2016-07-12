@@ -1,0 +1,54 @@
+.social-sprite, .sponser_toyo, .sponser_bidgestone, .sponser_continental, .sponser_opel, .sponser_avon, .sponser_tire, .sponser_firelli, .sponser_dunlop {
+  background-image: url('../img/social-s40cd45f454.png');
+  background-repeat: no-repeat;
+}
+
+.sponser {
+  margin: 30px auto 30px;
+  text-align: center;
+}
+.sponser_link {
+  display: inline-block;
+  margin-left: 7px;
+  margin-top: 2px;
+}
+.sponser_toyo {
+  width: 83px;
+  height: 21px;
+  background-position: 0 -860px;
+}
+.sponser_bidgestone {
+  width: 97px;
+  height: 14px;
+  background-position: 0 -23px;
+}
+.sponser_continental {
+  width: 77px;
+  height: 21px;
+  background-position: 0 -80px;
+}
+.sponser_opel {
+  width: 59px;
+  height: 21px;
+  background-position: 0 -309px;
+}
+.sponser_avon {
+  width: 77px;
+  height: 13px;
+  background-position: 0 0;
+}
+.sponser_tire {
+  width: 57px;
+  height: 27px;
+  background-position: 0 -823px;
+}
+.sponser_firelli {
+  width: 61px;
+  height: 14px;
+  background-position: 0 -134px;
+}
+.sponser_dunlop {
+  width: 72px;
+  height: 13px;
+  background-position: 0 -111px;
+}
