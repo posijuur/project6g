@@ -1,13 +1,14 @@
 .menu-bottom {
   display: block;
   margin-bottom: 15px;
+  margin-left: 309px;
 }
 .menu-bottom_item {
   display: inline-block;
 }
 .menu-bottom_link {
   display: block;
-  padding-right: 10px;
+  padding-right: 11px;
   padding-left: 11px;
   border-right: 1px solid #bec6c9;
   color: #bec6c9;
@@ -23,4 +24,7 @@
 .menu-bottom_link__pr0 {
   padding-right: 0;
   border: 0;
+}
+.menu-bottom_link__mod {
+  padding-left: 9px;
 }

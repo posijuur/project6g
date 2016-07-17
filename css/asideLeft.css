@@ -12,13 +12,14 @@
   width: 184px;
 }
 .menu-left_item {
+  margin-bottom: 1px;
   width: 149px;
   border: 1px solid #79878d;
   border-radius: 14px;
 }
 .menu-left_item_btn {
   width: 98%;
-  margin-bottom: 15px;
+  margin-bottom: 13px;
   -webkit-box-shadow: 3px 3px 4px 0px #bfbfbf;
   -moz-box-shadow: 3px 3px 4px 0px #bfbfbf;
   box-shadow: 3px 3px 4px 0px #bfbfbf;
